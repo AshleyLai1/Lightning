@@ -13,11 +13,12 @@ body {
 }
 
 header {
-	
+	System.out.println("DATA");
 }
 
 footer {
 	font-style: italic;
 	font-size: 90%;
+	System.out.println("Lighting Project");
 }
 
